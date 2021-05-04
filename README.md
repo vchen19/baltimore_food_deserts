@@ -9,7 +9,7 @@ How do healthy food availability, walk score, and income predict life expectancy
 
 ## Analysis
 
-All analysis was performed in Python with Google Colaboratory. The notebook can be found [here](https://github.com/vchen19/baltimore_food_deserts/blob/main/MiniProject5.ipynb). The goal of the analysis was to gain a visual understanding of the relationship between the variables and how they relate to life expectancy, then to use multiple regression analysis to determine whether or not they can predict life expectancy.
+All analysis was performed in Python with Google Colaboratory. The notebook can be found [here](https://github.com/vchen19/baltimore_food_deserts/blob/main/MiniProject5.ipynb). All data was taken from [Baltimore Open Data](https://data.baltimorecity.gov/). Life expectancy data can be found [here](https://github.com/vchen19/baltimore_food_deserts/blob/main/Life_Expectancy.csv), median household income data can be found [here](https://github.com/vchen19/baltimore_food_deserts/blob/main/Median_Household_Income.csv), healthy food availability index data can be found [here](https://github.com/vchen19/baltimore_food_deserts/blob/main/Average_Healthy_Food_Availability_Index.csv), and walk score data can be found [here](https://github.com/vchen19/baltimore_food_deserts/blob/main/Walk_Score.csv). The goal of the analysis was to gain a visual understanding of the relationship between the variables and how they relate to life expectancy, then to use multiple regression analysis to determine whether or not they can predict life expectancy.
 
 ## Results
 
