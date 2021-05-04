@@ -6,3 +6,15 @@ According to a study performed by the [Johns Hopkins Center for a Livable Future
 ## Business question
 
 How do healthy food availability, walk score, and income predict life expectancy?
+
+## Analysis
+
+All analysis was performed in Python with Google Colaboratory. The notebook can be found [here](https://github.com/vchen19/baltimore_food_deserts/blob/main/MiniProject5.ipynb). 
+
+## Results
+
+![MHHI, HFAI, LE](https://github.com/vchen19/baltimore_food_deserts/blob/main/Median%20Household%20Income%2C%20Healthy%20Food%20Availability%20Index%2C%20and%20Life%20Expectancy.png)
+
+![WS, HFAI, LE](https://github.com/vchen19/baltimore_food_deserts/blob/main/Walk%20Score%2C%20Healthy%20Food%20Availability%20Index%2C%20and%20Life%20Expectancy.png)
+
+![WS, MHHI, LE](https://github.com/vchen19/baltimore_food_deserts/blob/main/Walk%20Score%2C%20Median%20Household%20Income%2C%20Life%20Expectancy.png)
