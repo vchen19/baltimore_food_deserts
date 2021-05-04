@@ -9,7 +9,7 @@ How do healthy food availability, walk score, and income predict life expectancy
 
 ## Analysis
 
-All analysis was performed in Python with Google Colaboratory. The notebook can be found [here](https://github.com/vchen19/baltimore_food_deserts/blob/main/MiniProject5.ipynb). 
+All analysis was performed in Python with Google Colaboratory. The notebook can be found [here](https://github.com/vchen19/baltimore_food_deserts/blob/main/MiniProject5.ipynb). The goal of the analysis was to gain a visual understanding of the relationship between the variables and how they relate to life expectancy, then to use multiple regression analysis to determine whether or not they can predict life expectancy.
 
 ## Results
 
@@ -18,3 +18,9 @@ All analysis was performed in Python with Google Colaboratory. The notebook can 
 ![WS, HFAI, LE](https://github.com/vchen19/baltimore_food_deserts/blob/main/Walk%20Score%2C%20Healthy%20Food%20Availability%20Index%2C%20and%20Life%20Expectancy.png)
 
 ![WS, MHHI, LE](https://github.com/vchen19/baltimore_food_deserts/blob/main/Walk%20Score%2C%20Median%20Household%20Income%2C%20Life%20Expectancy.png)
+
+![Multiple Regression](https://github.com/vchen19/baltimore_food_deserts/blob/main/Regression%20Analysis.png)
+
+## Discussion
+
+Both the visualizations and the multiple regression analysis indicate that the variables do not predict life expectancy very strongly. Thus, it may be more useful to divide the neighborhoods into clusters to determine if there are multiple different trends taking place in Baltimore, since it is clear that no single trend can accurately describe all of the neighborhoods.
